@@ -1,124 +1,130 @@
-💜 Hey, I'm Misbah Kazi!
-✨ Multi-Disciplinary Professional | Data Analyst | Python Enthusiast | UI Designer
+MISBAH KAZI
+Data • Technology • Design • Management
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A00F5,50:9D4EDD,100:E0AAFF&height=200&section=header&text=Misbah%20Kazi&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Turning%20Ideas%20Into%20Impact&descAlignY=55&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=F5F0E9&height=190&section=header&text=MISBAH%20KAZI&fontSize=48&fontColor=403747&fontAlignY=40&desc=Creating%20with%20purpose.%20Thinking%20beyond%20boundaries.&descSize=14&descAlignY=65" width="100%" />
+</p>
+
+<p align="center">
+<i>A multi-disciplinary professional exploring the intersection of technology, creativity, analytics and business.</i>
 </p>
 
 <p align="center">
 <a href="https://github.com/misbahkazi173">
-<img src="https://komarev.com/ghpvc/?username=misbahkazi173&label=PROFILE%20VIEWS&color=9D4EDD&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=misbahkazi173&style=flat-square&color=9B87A8&label=PROFILE+VISITORS" />
 </a>
-<img src="https://img.shields.io/badge/Focus-Continuous%20Learning-8A2BE2?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Passion-Innovation-E0AAFF?style=for-the-badge" />
 </p>
 
-👩‍💻 About Me
+01 — ABOUT ME
 
-Hello! I'm Misbah Kazi, a multi-disciplinary professional passionate about technology, creativity, data, and organizational excellence.
+Hello, I'm Misbah Kazi.
 
-I enjoy combining analytical thinking, technical knowledge, creative design, and management skills to solve real-world problems.
+I enjoy exploring different fields, learning new technologies and bringing ideas to life through analytical thinking and creativity.
 
-📊 Interested in Data Analytics and data-driven decision-making.
-🐍 Exploring Python and programming.
-🎨 Passionate about UI Design and user experiences.
-📋 Interested in Project Management and Administration.
-👥 Knowledge and interest in Human Resources.
-🚀 Always looking for opportunities to learn, collaborate, and grow.
-🏆 Motivated by challenges, achievements, and continuous improvement.
-🛠️ Skills & Technologies
-💻 Technical Skills
+My interests span data analytics, Python, UI design, project management, administration and human resources.
+
+I value continuous learning, thoughtful problem-solving and creating work that makes a difference.
+
+02 — AREAS OF INTEREST
+Field	Focus
+📊 Data Analytics	Data interpretation, reporting and insights
+🐍 Python	Programming and problem-solving
+🎨 UI Design	User interfaces and visual experiences
+📋 Project Management	Planning and coordination
+🗂️ Administration	Organization and operations
+👥 Human Resources	HR and people coordination
+03 — TOOLS & TECHNOLOGIES
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,html,css,figma,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,html,css,figma,github,vscode&theme=light" />
 </p>
 
-📊 Professional Skills
-Area	Skills
-Data Analytics	Data Analysis, Data Interpretation, Reporting
-Programming	Python, Problem Solving
-Design	UI Design, Creative Thinking
-Management	Project Management, Planning
-Administration	Organization, Documentation
-Human Resources	HR Administration, Coordination
-📈 GitHub Statistics
+04 — SELECTED PROJECTS
+
+An evolving collection of work, ideas and practical projects.
+
+01. Data & Insights
+
+Data analysis projects focused on exploring information, identifying patterns and presenting meaningful insights.
+
+Python Data Analytics Visualization
+
+Explore Projects →
+
+02. Digital Experiences
+
+Creative interface concepts and user-focused design explorations.
+
+UI Design Figma Creativity
+
+Explore Projects →
+
+03. Technology & Development
+
+Programming experiments and Python-based projects.
+
+Python Development Problem Solving
+
+Explore Projects →
+
+04. Management & Operations
+
+Work and learning related to administration, HR and project coordination.
+
+Management Administration HR
+
+Explore Projects →
+
+05 — GITHUB STATISTICS
 
 <p align="center">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=misbahkazi173&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=misbahkazi173&layout=compact&theme=midnight-purple&hide_border=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=misbahkazi173&show_icons=true&theme=default&hide_border=true&bg_color=F5F0E9&title_color=806B91&icon_color=9B87A8&text_color=49414D" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=misbahkazi173&layout=compact&hide_border=true&bg_color=F5F0E9&title_color=806B91&text_color=49414D" />
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=misbahkazi173&theme=midnight-purple&hide_border=true" width="70%" />
+<img src="https://streak-stats.demolab.com?user=misbahkazi173&theme=default&hide_border=true&background=F5F0E9&ring=9B87A8&fire=C19BCB&currStreakLabel=806B91" width="70%" />
 </p>
 
-🏆 GitHub Achievements
+06 — ACHIEVEMENTS & RECOGNITION
+
+A space dedicated to professional growth, learning and milestones.
+
+📜 Certifications — Add completed certifications
+🏆 Hackathons — Add participation and awards
+✨ Recognition — Add achievements and awards
+📚 Learning — Add courses and professional development
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=misbahkazi173&theme=discord&no-frame=true&no-bg=true&margin-w=10&column=4" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=misbahkazi173&theme=flat&no-frame=true&no-bg=true&column=4" width="100%" />
 </p>
 
-🚀 Featured Projects
-
-Here are some projects that showcase my interests and skills.
-
-<!-- Replace the placeholders with your actual GitHub repository details -->
-
-📊 1. Data Analytics Project
-Description: A project focused on analyzing data and generating meaningful insights.
-Technologies: Python, Data Analysis
-Repository: Add Project Link
-🐍 2. Python Development Project
-Description: Python-based project demonstrating programming and problem-solving skills.
-Technologies: Python
-Repository: Add Project Link
-🎨 3. UI Design Portfolio
-Description: Creative user interface designs focused on usability and visual experience.
-Technologies: Figma, UI Design
-Portfolio: Add Portfolio Link
-📋 4. Project Management / HR Project
-Description: An organizational project showcasing planning, coordination, and administrative skills.
-Skills: Project Management, HR, Administration
-Repository: Add Project Link
-🥇 Certificates, Awards & Achievements
-
-I'm continuously working toward professional and personal growth.
-
-📜 Professional Certifications — Add certification names
-🏆 Hackathons — Add participation and achievements
-🥇 Awards & Recognition — Add your awards
-🚀 Personal Milestones — Add your accomplishments
-💡 Learning & Development — Add completed courses
-📅 My GitHub Contribution Activity
+07 — CONTRIBUTION ACTIVITY
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=misbahkazi173&bg_color=0d1117&color=c77dff&line=9d4edd&point=e0aaff&area=true&hide_border=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=misbahkazi173&bg_color=F5F0E9&color=806B91&line=9B87A8&point=6F567E&area=true&hide_border=true" width="100%" />
 </p>
 
-🤝 Let's Connect!
+08 — LET'S CONNECT
 
-I'm always open to connecting with people, exploring opportunities, sharing ideas, and collaborating on interesting projects.
+I'm open to connecting, sharing ideas, learning and exploring opportunities.
 
 <p align="center">
 <a href="https://github.com/misbahkazi173">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-Portfolio-51435D?style=flat-square&logo=github&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-Connect-8E79A2?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:YOUR-EMAIL">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-Contact-B69CC5?style=flat-square&logo=gmail&logoColor=white" />
 </a>
 </p>
 
 <p align="center">
-<b>✨ "Learn continuously. Create fearlessly. Make an impact." ✨</b>
+<i>"Learn with curiosity. Create with intention. Grow with purpose."</i>
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A00F5,50:9D4EDD,100:E0AAFF&height=100&section=footer" width="100%" />
-</p>
-
-<p align="center">
-⭐ If you find something interesting in my work, feel free to explore my repositories!
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F5F0E9,100:C9B6D5&height=100&section=footer" width="100%" />
 </p>
